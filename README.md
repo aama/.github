@@ -6,7 +6,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-# Introduction to the AAMA project
+# The AAMA project
 
 The purpose of the AAMA Project is to create a morphological archive whose data can be:
 
